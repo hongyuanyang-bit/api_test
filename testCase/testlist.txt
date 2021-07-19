@@ -1,0 +1,3 @@
+test_user_login_normal
+test_getstocklist_normal
+# test_getstocklist_jurisdiction
